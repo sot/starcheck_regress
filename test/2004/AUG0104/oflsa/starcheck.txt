@@ -6,7 +6,6 @@ Short Term Schedule: AUG0104A
 DATA = /home/jeanconn/git/starcheck/starcheck/data
 Using DOT file /data/mpcrit1/mplogs/2004/AUG0104/oflsa/mps/md214_0303.dot
 Using OR file /data/mpcrit1/mplogs/2004/AUG0104/oflsa/mps/or/AUG0104_A.or
-Using SOE file /data/mpcrit1/mplogs/2004/AUG0104/oflsa/mps/soe/ms214_0303.soe
 Using TLR file /data/mpcrit1/mplogs/2004/AUG0104/oflsa/CR214_0300.tlr
 Using acq_star_rdb file ${DATA}/bad_acq_stars.rdb
 Using backstop file /data/mpcrit1/mplogs/2004/AUG0104/oflsa/CR214_0300.backstop
@@ -25,7 +24,7 @@ Using processing summary file /data/mpcrit1/mplogs/2004/AUG0104/oflsa/mps/ms214_
 Using radmon file /data/mpcrit1/mplogs/2004/AUG0104/oflsa/History/RADMON.txt
 Using simfocus file /data/mpcrit1/mplogs/2004/AUG0104/oflsa/History/SIMFOCUS.txt
 Using simtrans file /data/mpcrit1/mplogs/2004/AUG0104/oflsa/History/SIMTRANS.txt
-Using ACABadPixel file from 2018002 Dark Cal 
+Using ACABadPixel file from 2018100 Dark Cal 
 Using acquisition model for multiple star filter enabled
 
 ------------  CCD TEMPERATURE PREDICTION -----------------
@@ -34,10 +33,10 @@ Using acquisition model for multiple star filter enabled
 ------------  SUMMARY OF OBSIDS -----------------
 
          ------  2004:214:03:14:37.074   OBC Load Segment Begins     CL214:0300 
-OBSID = 60111 at 2004:214:03:17:43.074   8 clean ACQ | 8 clean GUI | 
-OBSID =  4592 at 2004:214:05:59:38.438   8 clean ACQ | 5 clean GUI | 
-OBSID = 60110 at 2004:214:18:12:37.466   8 clean ACQ | 6 clean GUI | 
-OBSID =  5353 at 2004:214:19:06:53.010   8 clean ACQ | 5 clean GUI |
+OBSID = 60111 at 2004:214:03:17:43.074   7.9 ACQ | 8.0 GUI | 
+OBSID =  4592 at 2004:214:05:59:38.438   7.9 ACQ | 5.0 GUI | 
+OBSID = 60110 at 2004:214:18:12:37.466   7.8 ACQ | 6.0 GUI | 
+OBSID =  5353 at 2004:214:19:06:53.010   7.9 ACQ | 5.0 GUI |
 ==================================================================================== 
 OBSID: 60111  
 RA, Dec, Roll (deg):     0.100000     0.100000   113.471045
